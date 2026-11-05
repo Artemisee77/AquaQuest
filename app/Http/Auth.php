@@ -8,4 +8,5 @@ use Illuminate\Http\Request;
 class Auth extends Controller
 {
     // Release 3.0.0
+    //color: blue
 }
